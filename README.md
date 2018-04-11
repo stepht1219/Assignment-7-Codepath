@@ -28,7 +28,7 @@ Time spent: **2** hours spent in total
     - Tested in version: 4.0
     - Fixed in version: 4.3.1
   - [X] GIF Walkthrough: 
-  ![Alt Text](https://i.imgur.com/PCJKfeR.gif)
+  ![Alt Text](https://i.imgur.com/PCJKfe.gif)
   - [X] Steps to recreate: 
         * Switch to user with contributor permissions
         * Create a new post
@@ -42,7 +42,7 @@ Time spent: **2** hours spent in total
     - Tested in version: 4.2.2
     - Fixed in version: 4.2.3
   - [X] GIF Walkthrough: 
-  ![Alt Text](https://i.imgur.com/Siuq2St.gif)
+  ![Alt Text](https://i.imgur.com/Siq2St.gif)
   - [X] Steps to recreate: 
         * Log into a user account
         * Create a new post
